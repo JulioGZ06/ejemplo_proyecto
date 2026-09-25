@@ -17,3 +17,9 @@ El **Organizador Personal** es una aplicación desarrollada en Python diseñada 
 
 ## Estado del Proyecto
 En desarrollo inicial.
+
+
+## Colaboración
+* Trabaja siempre dentro de una rama independiente y evita subir cambios directos a la rama principal.
+* Crea un Pull Request detallando los cambios realizados para que el propietario del proyecto pueda revisarlos y aprobarlos.
+* Si colaboras mediante una bifurcación (Fork), mantén tu copia actualizada con la rama principal antes de enviar tu contribución.
