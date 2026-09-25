@@ -14,4 +14,6 @@ El **Organizador Personal** es una aplicación desarrollada en Python diseñada 
    ```bash
    git clone [https://github.com/TU_USUARIO/organizador_personal.git](https://github.com/TU_USUARIO/organizador_personal.git)
    cd organizador_personal
-   
+
+## Estado del Proyecto
+En desarrollo inicial.
