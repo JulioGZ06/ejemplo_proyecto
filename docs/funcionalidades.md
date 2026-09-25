@@ -10,3 +10,4 @@ A continuación se enlistan las características y funcionalidades planeadas par
 
 ## Gestión de Notas
 - **Registrar notas:** Crear, guardar y organizar notas rápidas o recordatorios breves independientes del flujo de tareas.
+- **Categorizar tareas:** Asignar etiquetas o categorías (como Trabajo, Estudio o Personal) para organizar y filtrar mejor los pendientes.
